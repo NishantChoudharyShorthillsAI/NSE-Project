@@ -77,6 +77,6 @@ This table highlights the top 5 stocks with the largest percentage losses, provi
 
 The project generates a bar chart to visualize the top 5 gainers and losers of the day. Below is an example of the output:
 
-Top 5 Gainers and Losers](![alt text](image/image.png))
+Top 5 Gainers and Losers ![alt text](image/image.png)
 
 This chart provides a clear representation of the percentage changes in stock prices for the top-performing and worst-performing stocks of the day.
